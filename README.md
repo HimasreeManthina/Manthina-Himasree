@@ -1,5 +1,15 @@
 # Hi, I'm Himasree 👋
 
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Angular](https://img.shields.io/badge/Frontend-Angular-red)
+![Java](https://img.shields.io/badge/Backend-Java%20SpringBoot-orange)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![Python](https://img.shields.io/badge/Backend-Python-yellow)
+![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)
+![AWS](https://img.shields.io/badge/Cloud-AWS-yellow)
+![Azure](https://img.shields.io/badge/Cloud-Azure-blue)
+![CI/CD](https://img.shields.io/badge/DevOps-CI%2FCD-lightgrey)
+
 🎓 Master's Student in Computer Science @ Avila University  
 💻 Full Stack Developer | React.js | Java | Node.js | Cloud (AWS, Azure, GCP)  
 🚀 Passionate about building scalable, high-performance web applications  
