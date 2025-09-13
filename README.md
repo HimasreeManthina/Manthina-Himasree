@@ -1,6 +1,6 @@
 # Hi, I’m Himasree 👋
 
-Full Stack Developer with **3+ years** experience, ex-Accenture & Surya Allied Services, plus internship work.  
+Full Stack Developer with **4+ years** experience, ex-Accenture & Surya Allied Services, plus internship work.  
 Passionate about building scalable, maintainable, and cloud-native web applications.
 
 ---
